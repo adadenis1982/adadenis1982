@@ -34,7 +34,7 @@
 <br/>
 
 - **Фронтенд**: JS, React, Redux (Saga, Thunk), HTML5, CSS3
-- **Бекенд**: Node.js, Express, CORS, WebSockets, hbs
+- **Бэкенд**: Node.js, Express, CORS, WebSockets, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST
 
