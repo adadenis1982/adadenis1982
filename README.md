@@ -41,7 +41,7 @@
 
 ---
 ### GitHub cтатистика:
-[![Denis GitHub stats](https://github-readme-stats.vercel.app/api?username=adadenis1982&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/adadenis1982)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adadenis1982&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/adadenis1982)
 
 [resumeHH]: https://togliatti.hh.ru/resume/03024e96ff0951e0e10039ed1f36664d305578
 [linkedin]: https://www.linkedin.com/in/juliaglukhova
