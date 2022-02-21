@@ -8,7 +8,7 @@
 ---
 ### Контакты:
 
-[<img align="left" alt="denis | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/twitter.png" />][linkedin]
+[<img align="left" alt="denis | Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="denis | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="denis | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
 
@@ -44,7 +44,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=adadenis1982&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/adadenis1982)
 
 [resumeHH]: https://togliatti.hh.ru/resume/03024e96ff0951e0e10039ed1f36664d305578
-[linkedin]: https://www.linkedin.com/in/juliaglukhova
+[twitter]: https://twitter.com/adadenis1982
 [whatsapp]: https://wa.me/79003270606
 [telegram]: https://t.me/Adadenis1982 
 [git]: https://github.com/adadenis1982
