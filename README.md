@@ -38,6 +38,10 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST
 
+<br/>
+<br/>
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Denis1987)
 
 ---
 ### GitHub cтатистика:
