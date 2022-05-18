@@ -38,11 +38,6 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST
 
-<br/>
-<br/>
-
-[![codewars](https://www.codewars.com/users/Denis1987/badges/large)](https://www.codewars.com/users/Denis1987)
-
 ---
 ### GitHub cтатистика:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=adadenis1982&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/adadenis1982)
