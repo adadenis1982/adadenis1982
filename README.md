@@ -38,9 +38,6 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST
 
-<br/>
-<br/>
-
 ---
 ### Codewars cтатистика:
 
