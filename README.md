@@ -8,7 +8,6 @@
 ---
 ### Контакты:
 
-[<img align="left" alt="denis | Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="denis | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="denis | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
 
