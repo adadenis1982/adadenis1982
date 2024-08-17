@@ -2,7 +2,7 @@
 ### Меня зовут Денис, я frontend разработчик!
 
 - Интересуюсь web-разработкой, путешествиями
-- Планирую изучать TypeScript, Next.js
+- Планирую изучать SQL, Laravel
 - Как связаться: adadenis1982@yandex.ru
 
 ---
@@ -18,6 +18,7 @@
 ### Мой стек:
 
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
+[<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
 [<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
@@ -32,8 +33,8 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, React, Redux, HTML5, CSS3
-- **Бэкенд**: Node.js, Express, CORS, WebSockets, hbs
+- **Фронтенд**: JS, TS, React, React Native, Next.js, Zustand, Redux, SASS, MUI, HTML5, CSS3
+- **Бэкенд**: Node.js, PHP, MySQL, Express
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST
 
