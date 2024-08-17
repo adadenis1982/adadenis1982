@@ -34,8 +34,8 @@
 <br/>
 
 - **Фронтенд**: JS, TS, React, React Native, Next.js, Zustand, Redux, SASS, MUI, HTML5, CSS3
-- **Бэкенд**: Node.js, PHP, MySQL, Express
-- **Базы данных**: PostgreSQL, Sequelize ORM
+- **Бэкенд**: Node.js, PHP, Express
+- **Базы данных**: PostgreSQL, MySQL, Sequelize ORM
 - **A также**: Jest, REST
 
 ---
